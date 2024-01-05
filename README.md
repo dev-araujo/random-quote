@@ -4,7 +4,7 @@
 
 ## 🎨 Resultado
 
-- O resultado pode ser conferido aqui: [**Repl.it**](https://random-quotes.dev-araujo.repl.co/)
+- O resultado pode ser conferido [aqui](https://random-quote-theta-eosin.vercel.app/)
 
 ![image](https://github.com/dev-araujo/FreeCodeCamp/assets/97068163/685e3cbf-89cd-4748-9d96-a71fe1384629)
 
